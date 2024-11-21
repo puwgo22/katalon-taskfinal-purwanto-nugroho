@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS-E2E-Testing</name>
+   <name>TS-E2E_Testing</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -29,7 +29,7 @@
       <guid>1744e3c9-66c8-454a-8d29-5c49b8270a4c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Scenario/Mobile_App/Positive/03-TC-Edit Task TODOO</testCaseId>
+      <testCaseId>Test Cases/Scenario/Mobile_App/Positive/03-TC-Edit_Task_TODOO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
